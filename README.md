@@ -1,3 +1,22 @@
+# MUI v5 and React 18
+
+This is a simple project using MUI5 and React 18. Some of the components used:
+- Badge
+- Box
+- Card
+- DataTable
+- Drawer
+- Menu
+- SnackBar
+- Grid
+- Notifications
+- Modal
+- IconButton
+- Toolbar
+- Tooltip
+- Skeleton
+- Stepper
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
